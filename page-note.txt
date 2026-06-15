@@ -1,0 +1,8 @@
+// Next.js App Router: src/app/(public)/page.tsx already serves '/'
+// because the (public) route group is transparent in the URL.
+// This file should NOT exist alongside it — if you see a conflict,
+// delete this file and keep only src/app/(public)/page.tsx.
+//
+// This placeholder is intentionally empty to avoid duplicate route errors.
+// If your build complains, remove this file.
+export {}
